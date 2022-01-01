@@ -1,0 +1,12 @@
+defaultPortal: HubDemo
+portals:
+  - name: HubDemo
+    portalId: 21137561
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CNXi7_PbLxIIAA0AAAAAAAwYmZGKCiDgjJkNKO7pDDIU6QhmtYDaSM20b7MzIhFAHHz55tM6KAAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcAAAAAPAAAAAAAAGBCFA_4M4TXYkYSqVNYqTPpycc_nCdYSgNuYTFSAFoA
+        expiresAt: '2021-12-15T14:25:33.530Z'
+    personalAccessKey: >-
+      CiRmN2Y5ZmRjZC00M2MwLTQxOTYtYWVmYy02ODgyNTYzYWZkNDIQmZGKChjgjJkNKhkABeaRgkOLYQHeFTY9ccLPe6tX7Gg88vaxSgNuYTE
